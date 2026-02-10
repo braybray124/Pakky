@@ -20,6 +20,3 @@ sync_ports() {
     echo "Syncing ports from $PAKKY_MIRROR"
     git clone $PAKKY_MIRROR /var/lib/pakky/ports
 }
-
-build_package() {
-    echo "Building package 

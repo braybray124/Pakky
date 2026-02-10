@@ -7,6 +7,11 @@ Soon maybe in the future i will add binary support and multi distro support so i
 
 ALSO  packages or the main ebuilds but in my version will be called recipes and will rolling release with the BLFS and MLFS and LFS books. ALSO i am very sorry if your system breaks from it this is still in early development and feel free to add and change to this project and fix and add whatever is need to the main or in forks.
 
-#### 02/03/2026 
+#### 02/3/2026 
 
 Planning on fixing and renaming files to work with pakky project and make it work more simple in my words but still want to make it more easy to know what part of the project does what and adding some comments and notes in the code. Development of the reader for the packages is made in python and will be done within 3 weeks and will parse the packages that are in toml files and wil be using wget2 for most of the heavy work with packages due to being new and having multithread and can pass through flags to speed it up and common compiler will be GCC.
+
+
+#### 02/11/2026
+
+Adding in modular design to pakky. I plan to make it powerful as portage or pacman though pakky modular system giving it the ability to add on mods to make it faster or change how it works over all. Tho this will make it a mass redesign and risk i am willing to take to make this project better for the end user. I also want to make it extensive and work as package manager across all systems like arch, gentoo, Crux, debian and ubuntu. making it something that any person can use and deploy packages with. The main design and feel i reachna and aim for is something like Portage, pkgutils and apt easy but powerful to use and making your system.
