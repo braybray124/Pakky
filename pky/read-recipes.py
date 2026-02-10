@@ -1,7 +1,10 @@
-import tomllib
-import pathlib
-import toml
-
-from pathlib import Path
-
-RECIPES_DIR = Path("/var/pakky/recipes")
+#///////////////////////////////////////////////////////////////////////
+#/ FILE:        read-recipes.py
+#/ AUTHOR:      Braden Clancy, bradenclancy408@gmail.com
+#/ COPYRIGHT:   (c) 2026 by Braden Clancy
+#/ ---------------------------------------------------------------------
+#/  This program is free software; you can redistribute it and/or modify
+#/  it under the terms of the GNU General Public License as published by
+#/  the Free Software Foundation; either version 3 of the License, or
+#/  (at your option) any later version.
+#///////////////////////////////////////////////////////////////////////

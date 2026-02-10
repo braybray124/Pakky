@@ -15,8 +15,3 @@ else
     echo "Error loading config file"
     exit 1
 fi
-
-sync_ports() {
-    echo "Syncing ports from $PAKKY_MIRROR"
-    git clone $PAKKY_MIRROR /var/lib/pakky/ports
-}
