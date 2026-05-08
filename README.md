@@ -15,3 +15,7 @@ Planning on fixing and renaming files to work with pakky project and make it wor
 #### 02/11/2026
 
 Adding in modular design to pakky. I plan to make it powerful as portage or pacman though pakky modular system giving it the ability to add on mods to make it faster or change how it works over all. Tho this will make it a mass redesign and risk i am willing to take to make this project better for the end user. I also want to make it extensive and work as package manager across all systems like arch, gentoo, Crux, debian and ubuntu. making it something that any person can use and deploy packages with. The main design and feel i reachna and aim for is something like Portage, pkgutils and apt easy but powerful to use and making your system.
+
+####03/30/2026
+
+Sorry for no updates on the repo i been taking time off and also building it mostly offline just been fixing most home projects first. Also due to the new age laws i will not be complying with them no age verifcation with this package manager and if they dont like this they kneel downa and suck while hit them with tazers.
